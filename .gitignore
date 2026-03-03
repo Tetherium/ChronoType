@@ -1,0 +1,30 @@
+# Prerequisite files
+*.d
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+
+# Visual Studio & CMake specific
+.vs/
+out/
+build/
+CMakeSettings.json
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+
+# Application specific
+database.db
+current_port.txt

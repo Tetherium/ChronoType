@@ -11,11 +11,11 @@ Security and privacy are the core of ChronoType. It operates with a **strict 100
 <br/>
 
 ## Dashboard Preview 📊
-`![Dashboard Overview](src/dashboard.jpg)`
+![Dashboard Overview](src/dashboard.jpg)
 
-`![Top Sentences and Words](src/words.jpg)`
- 
-`![Hidden System Tray Usage](stats.jpg/)`
+![Top Sentences and Words](src/words.jpg)
+![Top Sentences and Words](src/stats.jpg)
+![Hidden System Tray Usage](src/hidden.jpg)
 
 <br/>
 

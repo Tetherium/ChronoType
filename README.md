@@ -2,7 +2,7 @@
 
 **ChronoType** is a modern, totally local, and stealthy keystroke analytics engine built natively with C++ for Windows. It provides beautifully rendered statistics of your typing habits without compromising privacy.
 
-## Why ChronoType? 🛡️
+## Why ChronoType? 
 Security and privacy are the core of ChronoType. It operates with a **strict 100% offline policy.**
 - **Local Data Only:** Every single keystroke is processed internally and logged to a local SQLite database (`database.db`) right on your hard drive.
 - **Zero Telemetry:** The application does absolutely no outbound connections. No APIs, no phoning home, no anonymous metrics.

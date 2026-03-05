@@ -1,4 +1,4 @@
-# ChronoType ⏳
+# ChronoType 
 
 **ChronoType** is a modern, totally local, and stealthy keystroke analytics engine built natively with C++ for Windows. It provides beautifully rendered statistics of your typing habits without compromising privacy.
 
@@ -10,7 +10,7 @@ Security and privacy are the core of ChronoType. It operates with a **strict 100
 
 <br/>
 
-## Dashboard Preview 📊
+## Dashboard Preview 
 ![Dashboard Overview](src/dashboard.jpg)
 
 ![Top Sentences and Words](src/words.jpg)
@@ -19,14 +19,14 @@ Security and privacy are the core of ChronoType. It operates with a **strict 100
 
 <br/>
 
-## Features ✨
+## Features 
 - **Stealth Background Mode:** The system automatically configures itself as a `WIN32` background application. There are no distracting console windows.
 - **System Tray Command:** An unobtrusive, lightweight icon lives in your Windows Tray. Just right-click to instantly snap to your dashboard or gracefully exit.
 - **Auto-Boot:** Launch and forget. ChronoType safely injects a local registry key to resume analytics immediately when your computer boots up.
 - **Native Multi-Byte Localization:** Full native handling of UTF-8 special keys (e.g., parsing `ğ, ü, ş, ö, ç, i` dynamically into natural word formations without buffer corruption).
 - **Embedded C++ HTTP Server:** Employs an ultra-fast local networking thread to display the dashboard via `cpp-httplib` and Vanilla JavaScript + Chart.js.
 
-## Installation & Usage 🛠️
+## Installation & Usage 
 
 1. **Download:** Go to the [Releases](../../releases) section of this repository and download the latest `ChronoType.zip`.
 2. **Extract:** Unzip the folder to your preferred location. *(Note: Make sure the `ui` folder remains in the same directory as the executable).*

@@ -1,4 +1,4 @@
-# ChronoType 
+# ChronoType  
 
 **ChronoType** is a modern, totally local, and stealthy keystroke analytics engine built natively with C++ for Windows. It provides beautifully rendered statistics of your typing habits without compromising privacy.
 
